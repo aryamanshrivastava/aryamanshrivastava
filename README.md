@@ -30,7 +30,7 @@ My name's Aryaman Shrivastava, currently a third year student pursuing B.Tech fr
 
 <div align="center"> 
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.649468612.4277/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" alt="Flutter" height="25" /> 
-<img style="margin: 10px" src="https://www.scottbrady91.com/img/logos/dart.svg alt="Dart" height="25" />
+<img style="margin: 10px" src="https://www.scottbrady91.com/img/logos/dart.svg" alt="Dart" height="25" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
