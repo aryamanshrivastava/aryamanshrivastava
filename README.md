@@ -41,7 +41,7 @@ My name's Aryaman Shrivastava, currently a third year student pursuing B.Tech fr
 
 </div>
 
-<br/>
+<!-- <br/>
 
 <hr>
 
@@ -49,7 +49,13 @@ My name's Aryaman Shrivastava, currently a third year student pursuing B.Tech fr
  
 ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanshrivastava&theme=dark&hide_langs_below=4&layout=compact'/>
-<br>
+<br> -->
+<h2 align="center">Stats: </h2>
+<p align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=aryamanshrivastava&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark" alt="Stats" />
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshrivastava&theme=dark" alt="Stats" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=aryamanshrivastava&color=blue)
 
