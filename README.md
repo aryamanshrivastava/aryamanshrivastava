@@ -24,54 +24,45 @@ My name's Aryaman Shrivastava, currently a third year student pursuing B.Tech fr
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
   </a>
   <br/>
+  <p align="center"> (Open for Hiring)</p>
 <hr>
 
-## Languages/Systems/Tools
+## 💢Languages and Tools:
 
-<div align="center"> 
-<img style="margin: 10px" src="https://ih1.redbubble.net/image.649468612.4277/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" alt="Flutter" height="25" /> 
-<img style="margin: 10px" src="https://www.scottbrady91.com/img/logos/dart.svg" alt="Dart" height="25" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /> 
-
+<div align="center">  
+<code> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> </code>
+<code> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="flutter" width="40" height="40"/> </a> </code> 
+<code> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="flutter" width="40" height="40"/> </a> </code> 
+<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </code>
+<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </code>
+<code> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> </code> 
+<code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </code>
+<code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </code>
+<code><a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  </a> </code> <br> <br>
 </div>
 
-<!-- <br/>
+## 🏆GitHub Analytics
 
-<hr>
-
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshrivastava&theme=dark" /></br>
- 
-![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark&count_private=true)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanshrivastava&theme=dark&hide_langs_below=4&layout=compact'/>
-<br> -->
-<h2 align="center">Stats: </h2>
 <p align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=aryamanshrivastava&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
+   <img align="center" height="165em" width="420"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vartika511&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshrivastava&theme=dark" alt="Stats" />
+  
 </p>
 
+<samp>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Talk is CHEAP show me the CODE👨‍💻!"
+    </p>
+</samp>
+<br>
+
+<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
+<br>
+
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=aryamanshrivastava&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" /> -->
 ![](https://komarev.com/ghpvc/?username=aryamanshrivastava&color=blue)
 
-  
-
-<!--
-**aryamanshrivastava/aryamanshrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
