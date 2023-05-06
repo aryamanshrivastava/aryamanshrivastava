@@ -1,4 +1,4 @@
-### < Hello World /> <img src="https://rb.gy/8czkyq" width="32px">
+### < Hello World /> <img src="./wave-hello.gif" width="40px">
 
 <hr>
 
