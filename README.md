@@ -44,11 +44,10 @@ My name's Aryaman Shrivastava, currently a third year student pursuing B.Tech fr
 ## 🏆GitHub Analytics
 
 <p align="center"> 
-<!--   <img align="center" width="420" src="https://github-readme-activity-graph.cyclic.app/graph?username=aryamanshrivastava&theme=chartreuse-dark" alt="Stats" /> -->
-<!--    <img align="center" height="165em" width="420"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/
-  username=Vartika511&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" /> -->
-  <img align="center" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark" alt="Stats" />
-  <img align="center" height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshrivastava&theme=dark" alt="Stats" />
+<img align="center" height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshrivastava&theme=dark&hide_border=false" alt="Stats" />
+<img align="center" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark" alt="Stats" />
+<img align="center" height="200" width="420"src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanshrivastava&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+<img align="center" width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanshrivastava&theme=merko" alt="Stats" /> 
   
 </p>
 
