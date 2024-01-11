@@ -3,11 +3,11 @@
 <hr>
 
 <img align="right" alt="GIF" height="200px" src="./bit.png" />
-My name's Aryaman Shrivastava, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am an app developer enhancing my skills using flutter and kotlin. </br>
+📱 Passionate about crafting stunning mobile apps with a creative flair! 🌟 As a full-stack development and UI/UX expert, I specialize in transforming concepts into seamless, user-friendly experiences. Let's turn your ideas into app masterpieces! 🚀 </br>
 
-- 🌱 I’m currently learning - kotlin and Solana
+- 🌱 I’m currently learning -  Flutter, MERN and ML
 - 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - Flutter, kotlin, Python, C/C++,
+- 💬 Ask me about - Flutter, kotlin, Python, C/C++, Machine Learning, Swift, Firebase
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
 
