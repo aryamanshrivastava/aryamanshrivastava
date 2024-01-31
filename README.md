@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning -  Flutter, MERN and ML
 - 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - Flutter, kotlin, Python, C/C++, Machine Learning, Swift, Firebase
+- 💬 Ask me about - Flutter, Java, C/C++....
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
 
@@ -30,9 +30,9 @@
 ## 💢Languages and Tools:
 
 <div align="center">  
-<code> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> </code>
-<code> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="flutter" width="40" height="40"/> </a> </code> 
-<code> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="flutter" width="40" height="40"/> </a> </code> 
+<code> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/> </a> </code>
+<code> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/> </a> </code> 
+<code> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40"/> </a> </code> 
 <code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </code>
 <code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </code>
 <code> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> </code> 
