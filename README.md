@@ -42,7 +42,6 @@
 </div>
 
 ## 🏆GitHub Analytics
-
 <p align="center"> 
 <img align="center" height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshrivastava&theme=dark&hide_border=false" alt="Stats" />
 <img align="center" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=aryamanshrivastava&show_icons=true&theme=dark" alt="Stats" />
@@ -50,7 +49,6 @@
 <img align="center" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanshrivastava&theme=merko" alt="Stats" /> 
   
 </p>
-
 <samp>
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
     <p align="center">
@@ -60,7 +58,6 @@
     </p>
 </samp>
 <br>
-
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 <br>
 
@@ -69,4 +66,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=aryamanshrivastava&color=blue)
-
